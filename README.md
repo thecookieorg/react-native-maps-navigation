@@ -1,6 +1,6 @@
 # react-native-maps-navigation
 
-Enhances React Native Maps with Realtime Navigation.
+Enhances React Native Maps with Realtime Navigations.
 
 `Please note that this module is usable but still under heavy development. Some properties and/or component names might change without notice.`
 
